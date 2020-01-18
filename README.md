@@ -1,24 +1,23 @@
-# vue-component-demo
+# Vue Component Demo
+A demo app how to properly add your own components inside Vue.js.
 
-## Project setup
-```
-npm install
-```
+### [Live demo](https://vue-component-demo.ianmustafa.now.sh)
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+### Installation
+1. Clone or download.
+2. Go to project folder and install the dependencies.
+   ```sh
+   $ npm install
+   ```
+3. Run the project.
+   ```sh
+   $ npm run serve
+   ```
 
 ### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
+```sh
+$ npm run build
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### License
+[The MIT license](LICENSE).
